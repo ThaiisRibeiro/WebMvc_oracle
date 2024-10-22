@@ -11,10 +11,6 @@ Bem-vindo ao **Product Management System**! Este é um projeto desenvolvido em C
 - 💾 **Conexão com Banco de Dados** SQL via Entity Framework Core
 - 📊 **Validação de Entrada** e **tratamento de erros**
 
-## 📸 Preview da Tela
-
-![Product Management UI](https://via.placeholder.com/1024x500?text=Product+Management+UI)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **C#** e **ASP.NET Core**
